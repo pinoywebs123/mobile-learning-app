@@ -8,4 +8,4 @@ Featues.
 Can save students data/score/statistic and etc
 With various of examination and reviewers.
 
-https://imgur.com/jPSjNTu
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/hHxCO"><a href="//imgur.com/hHxCO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
