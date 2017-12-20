@@ -12,4 +12,4 @@ Apk installer: http://www.mediafire.com/file/1sfnauerjl8ykwu/iReader.apk
 
 PREVIEW
 
-[img]https://i.imgur.com/jPSjNTu.png[/img]
+[Imgur](https://i.imgur.com/jPSjNTu.png)
