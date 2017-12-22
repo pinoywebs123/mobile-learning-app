@@ -8,7 +8,7 @@ Featues.
 Can save students data/score/statistic and etc
 With various of examination and reviewers.
 
-Apk installer: http://www.mediafire.com/file/1sfnauerjl8ykwu/iReader.apk
+Apk installer: http://www.mediafire.com/file/76w1n001e9eea79/iReader.apk
 
 PREVIEW
 
